@@ -2,7 +2,7 @@
 
 Sample files to show different behaviour when identical files are used vs. removing a sequence as a query
 
-# 1_same
+## 1_same
 
 Input:
 
